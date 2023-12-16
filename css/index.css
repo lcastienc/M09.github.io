@@ -1,0 +1,52 @@
+/* body{
+    border: 1px solid black;
+} */
+/* para id es #
+para clase es . */
+
+.container{
+    border: 1px solid blue;
+    padding: 2%;
+}
+
+.contMain{
+    border: 1px solid brown;
+    width: 60%;
+    padding: 2%;
+}
+
+.dreta{
+    border: 1px solid black;
+}
+
+.lateralMenu{
+    border: 1px solid green;
+    float: right;
+    width: 35.6%;
+    height: 50%;
+}
+
+.menu{
+    background-color: blue;
+    width:50%;
+    font-size: 30px;
+
+}
+
+h2{
+    color: aquamarine;
+    font-family: sans-serif;
+    border: 2px solid greenyellow;
+    margin: 3%;
+}
+
+p{
+    border: 1px solid greenyellow;
+    margin: 3%;
+}
+
+img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
