@@ -48,3 +48,11 @@ p{
     text-align: center;
     color: white;
 }
+
+.menu:first-child:hover{
+    background-color: purple;
+}
+
+.menu:nth-child(2):hover{
+    background-color: orchid;
+}

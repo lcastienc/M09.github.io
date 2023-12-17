@@ -48,12 +48,20 @@ p {
 }
 
 .menu {
-    font-size: 20px;
+    font-size: 30px;
     background-color: #2b4e8f;
     margin: 12%;
     text-align: center;
     clear: both; 
     color: white;
+}
+
+.menu:first-child:hover{
+    background-color: green;
+}
+
+.menu:nth-child(2):hover{
+    background-color: gold;
 }
 
 .clearfix::after{
