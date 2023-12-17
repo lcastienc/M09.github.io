@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;   
+}
+.container {
+    border: 1px solid rgb(44, 44, 152);
+    padding: 20px;
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.main {
+    width: 70%;
+    padding: 20px;
+    border: 1px solid brown;
+}
+
+.article {
+    border: 1px solid pink;
+}
+
+.foto>img {
+    width: 100%;
+}
+
+h2{
+    border: 1px solid greenyellow;
+    color: aquamarine;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+p{
+    border: 1px solid greenyellow;
+    margin: 20px;
+}
+
+.aside{
+    border: 1px solid green;
+    width: 30%;
+    padding: 20px;
+}
+
+.menu{
+    font-size: 30px;
+    background-color: #2b4e8f;
+    margin: 28px;
+    text-align: center
+}
